@@ -1,2 +1,2 @@
 # PCBLib
-my Personal Library for Kicad (symbols,footprints, 3d models
+My Personal Library for Kicad (symbols,footprints, 3d models )
