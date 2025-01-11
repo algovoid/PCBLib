@@ -4,7 +4,8 @@ My Personal Library for Kicad.
 This repository contains KiCad symbols, footprints, and 3D models for various components. 
  
 ## Structure 
-- **CPU/**: CPU components. 
+- **CPU/**: CPU components.
+- **GPU/**: GPU components. 
 - **LED/**: LED components. 
 - **IC/**: Integrated circuits. 
 - **Passive/**: Passive components like resistors and capacitors. 
